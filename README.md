@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-Simple Tict-Tact-Toe app in React.
+Simple Tic-Tac-Toe app in React.
